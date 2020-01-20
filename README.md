@@ -1,8 +1,8 @@
 # vpnc-script-mod
 A slightly modified version of vpnc script to enable split tunneling.
 
-Credits go to the author of the original script and I've only made a slight modification.
-Original script can be found at : http://git.infradead.org/users/dwmw2/vpnc-scripts.git/blob_plain/HEAD:/vpnc-script-win.js
+Credits go to the author of the original script and I've only made a slight modification. Original script can be found at,
+http://git.infradead.org/users/dwmw2/vpnc-scripts.git/blob_plain/HEAD:/vpnc-script-win.js
 
 
 Steps to configure:
