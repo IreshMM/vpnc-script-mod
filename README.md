@@ -13,7 +13,7 @@ Steps to configure:
 2. Download this script : https://raw.githubusercontent.com/IreshMM/vpnc-script-mod/master/vpnc-script.js and save it as vpnc-script.js 
 
 3. Replace vpnc-script.js in installation directory of openconnect-gui with the downloaded script file.
-  Usually installation directory is : C:\Program Files (x86)\OpenConnect-GUI
+  Usually, the installation directory is : C:\Program Files (x86)\OpenConnect-GUI
   
 4. Connect using the newly installed vpn client "openconnect-gui" instead of AnyClient.
   
