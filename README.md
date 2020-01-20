@@ -8,7 +8,7 @@ http://git.infradead.org/users/dwmw2/vpnc-scripts.git/blob_plain/HEAD:/vpnc-scri
 Steps to configure:
 
 1. Download openconnect-gui from https://github.com/openconnect/openconnect-gui/releases and install it.
-    *file: "openconnect-gui-1.5.3-win32.exe"*
+    (*"openconnect-gui-1.5.3-win32.exe"*)
 
 2. Download this script : https://raw.githubusercontent.com/IreshMM/vpnc-script-mod/master/vpnc-script.js and save it as vpnc-script.js 
 
