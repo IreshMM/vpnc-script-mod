@@ -1,9 +1,8 @@
 # vpnc-script-mod
-Slightly modified version of vpnc script for enabling split tunneling.
+A slightly modified version of vpnc script to enable split tunneling.
 
-This a slighly modified version by myself and follow the link below to find the original script
-
-Original script: http://git.infradead.org/users/dwmw2/vpnc-scripts.git/blob_plain/HEAD:/vpnc-script-win.js
+Credits go to the author of the original script and I've only made a slight modification.
+Original script can be found at : http://git.infradead.org/users/dwmw2/vpnc-scripts.git/blob_plain/HEAD:/vpnc-script-win.js
 
 
 Steps to configure:
@@ -13,9 +12,9 @@ Steps to configure:
 
 2. Download this script : https://raw.githubusercontent.com/IreshMM/vpnc-script-mod/master/vpnc-script.js and save it as vpnc-script.js 
 
-3 Replace vpnc-script.js in installation directory of openconnect-gui with the downloaded script file.
+3. Replace vpnc-script.js in installation directory of openconnect-gui with the downloaded script file.
   Usually installation directory is : C:\Program Files (x86)\OpenConnect-GUI
   
 4. Connect using the newly installed vpn client "openconnect-gui" instead of AnyClient.
   
-You're good to go!
+## You're good to go!
