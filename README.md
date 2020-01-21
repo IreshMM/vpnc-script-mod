@@ -5,7 +5,7 @@ Credits go to the author of the original script and I've only made a slight modi
 http://git.infradead.org/users/dwmw2/vpnc-scripts.git/blob_plain/HEAD:/vpnc-script-win.js
 
 
-Steps to configure:
+## Instructions to configure:
 
 1. Download openconnect-gui from https://github.com/openconnect/openconnect-gui/releases and install it.
     (*"openconnect-gui-1.5.3-win32.exe"*)
