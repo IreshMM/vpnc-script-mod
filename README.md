@@ -15,6 +15,6 @@ http://git.infradead.org/users/dwmw2/vpnc-scripts.git/blob_plain/HEAD:/vpnc-scri
 3. Replace vpnc-script.js in installation directory of openconnect-gui with the downloaded script file.
   Usually, the installation directory is : C:\Program Files (x86)\OpenConnect-GUI
   
-4. Connect using the newly installed vpn client "openconnect-gui" instead of AnyClient.
+4. Connect using the newly installed vpn client "openconnect-gui" instead of AnyConnect.
   
 ## You're good to go!
